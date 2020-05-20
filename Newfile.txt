@@ -1,3 +1,4 @@
 first file in git
 second line in fist file
+third line in first file
 fourth line in first file
